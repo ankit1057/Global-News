@@ -1,5 +1,5 @@
 # Global News App
-This is full source code of News App , use NewsAPI and use libraries : 
+This is full source code of News App Developed to learn JSON Dta Handling, use NewsAPI and use libraries : 
 
 - Retrofit  (Fetch data ) 
 - Picasso (Load image from INTERNET) 
